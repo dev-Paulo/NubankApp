@@ -60,5 +60,7 @@ export const Annotation = styled.Text`
   color: #333;
 `;
 
+/* just a ghost text passing through */
+
 
 
