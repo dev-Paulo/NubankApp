@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--
 *** Obrigado por estar vendo o nosso README. Se você tiver alguma sugestão
 *** que possa melhorá-lo ainda mais dê um fork no repositório e crie uma Pull
@@ -253,3 +254,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 ## Contato
 
 Rocketseat - [Github](https://github.com/rocketseat) - **oi@rocketseat.com.br**
+=======
+# NubankApp
+Interface similar ao app da nubank seguindo o tutorial da Rocketseat, utilizando react-native
+>>>>>>> a7bbaf01c57ed115126cc39a04db8912aa0204bc
